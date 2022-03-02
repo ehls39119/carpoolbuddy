@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54068568813",
+    "project_id": "carpoolbuddy-app",
+    "storage_bucket": "carpoolbuddy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54068568813:android:1b8bc5dd0a47543343e2e4",
+        "android_client_info": {
+          "package_name": "com.example.carpoolbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54068568813-eeo4qlipjetd8j6gnqbipb0mdjvnpcpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2grX8Ib9SptlcY6DahXDwPQD7VeZ0kx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54068568813-eeo4qlipjetd8j6gnqbipb0mdjvnpcpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
