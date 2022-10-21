@@ -10,9 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CarpoolBuddy" >
         <activity
-            android:name=".SignUpAScreen"
-            android:exported="false" />
-        <activity
             android:name=".VehicleProfileActivity"
             android:exported="true" />
         <activity
